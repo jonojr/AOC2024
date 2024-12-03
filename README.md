@@ -8,7 +8,7 @@ Fair warning, none of these solutions are good, just working at the time of writ
 | Day | Problem solved?    | Extension solved?  |
 |-----|--------------------|--------------------|
 | 1   | :heavy_check_mark: | :heavy_check_mark: |
-| 2   | :question:         | :question:         |
+| 2   | :heavy_check_mark: | :heavy_check_mark: |
 | 3   | :question:         | :question:         |
 | 4   | :question:         | :question:         |
 | 5   | :question:         | :question:         |
